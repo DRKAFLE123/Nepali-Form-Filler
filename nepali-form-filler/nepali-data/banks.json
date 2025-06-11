@@ -1,0 +1,36 @@
+{
+  "banks": [
+    "NIC Asia Bank",
+    "Nabil Bank",
+    "Himalayan Bank",
+    "Global IME Bank",
+    "Prabhu Bank",
+    "NMB Bank",
+    "Rastriya Banijya Bank",
+    "Agriculture Development Bank",
+    "Standard Chartered Bank Nepal",
+    "Everest Bank",
+    "Siddhartha Bank",
+    "Machhapuchchhre Bank",
+    "Kumari Bank",
+    "Laxmi Bank",
+    "Citizens Bank",
+    "Prime Commercial Bank",
+    "Sunrise Bank",
+    "Sanima Bank",
+    "Civil Bank",
+    "Century Commercial Bank"
+  ],
+  "branches": [
+    "Kathmandu Main Branch",
+    "Pokhara Branch",
+    "Biratnagar Branch",
+    "Birgunj Branch",
+    "Lalitpur Branch",
+    "Bhaktapur Branch",
+    "Chitwan Branch",
+    "Butwal Branch",
+    "Nepalgunj Branch",
+    "Dharan Branch"
+  ]
+}

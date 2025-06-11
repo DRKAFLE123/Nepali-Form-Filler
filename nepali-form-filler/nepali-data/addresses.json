@@ -1,0 +1,26 @@
+{
+  "provinces": [
+    "Province 1", "Madhesh Province", "Bagmati Province", 
+    "Gandaki Province", "Lumbini Province", 
+    "Karnali Province", "Sudurpaschim Province"
+  ],
+  "districts": [
+    "Kathmandu", "Lalitpur", "Bhaktapur", "Pokhara", "Chitwan",
+    "Nawalparasi", "Kaski", "Morang", "Jhapa", "Sunsari",
+    "Rupandehi", "Banke", "Bardiya", "Dang", "Kailali",
+    "Kanchanpur", "Saptari", "Siraha", "Dhanusha", "Mahottari"
+  ],
+  "municipalities": [
+    "Kathmandu", "Pokhara", "Lalitpur", "Bharatpur", "Biratnagar",
+    "Birgunj", "Dharan", "Butwal", "Nepalgunj", "Hetauda",
+    "Janakpur", "Itahari", "Dhulikhel", "Bidur", "Tulsipur",
+    "Ghorahi", "Tansen", "Baglung", "Dhankuta", "Ilam"
+  ],
+  "streets": [
+    "Main Road", "New Road", "Basantapur", "Thamel", "Durbarmarg",
+    "Pulchowk", "Kupondole", "Baneshwor", "Gongabu", "Koteshwor",
+    "Jawalakhel", "Patan", "Boudha", "Swayambhu", "Chabahil",
+    "Gaushala", "Maitighar", "Tinkune", "Bhatbhateni", "Satdobato"
+  ],
+  "wards": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
+}

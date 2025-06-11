@@ -1,0 +1,13 @@
+{
+  "municipalitiesByDistrict": {
+    "Kathmandu": ["Kathmandu", "Kirtipur", "Tokha", "Gokarneshwar", "Budhanilkantha"],
+    "Lalitpur": ["Lalitpur", "Mahalaxmi", "Godawari", "Konjyosom", "Bagmati"],
+    "Bhaktapur": ["Bhaktapur", "Madhyapur Thimi", "Suryabinayak", "Changunarayan"],
+    "Pokhara": ["Pokhara", "Annapurna", "Machhapuchchhre"],
+    "Chitwan": ["Bharatpur", "Ratnanagar", "Kalika", "Khairhani"],
+    "Nawalparasi": ["Gaindakot", "Kawasoti", "Madhyabindu"],
+    "Kaski": ["Pokhara", "Annapurna", "Machhapuchchhre"],
+    "Morang": ["Biratnagar", "Sundar Haraincha", "Belbari", "Pathari"],
+    "Jhapa": ["Birtamod", "Damak", "Mechinagar", "Arjundhara"]
+  }
+}

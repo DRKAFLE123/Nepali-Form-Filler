@@ -1,0 +1,24 @@
+{
+  "maleFirstNames": [
+    "Sujan", "Ramesh", "Ajay", "Bikash", "Santosh", 
+    "Niraj", "Pradeep", "Bipin", "Sagar", "Amit",
+    "Bikram", "Deepak", "Ganesh", "Hari", "Krishna",
+    "Manoj", "Nabin", "Prakash", "Rajesh", "Suresh"
+  ],
+  "femaleFirstNames": [
+    "Sujana", "Sarita", "Anjana", "Pushpa", "Sabina",
+    "Manju", "Reena", "Suman", "Sushma", "Anita",
+    "Bina", "Chhaya", "Gita", "Jamuna", "Kusum",
+    "Laxmi", "Mina", "Nirmala", "Puja", "Rita"
+  ],
+  "middleNames": [
+    "Kumar", "Bahadur", "Prasad", "Raj", "Mani",
+    "Lal", "Chandra", "Devi", "Maya", ""
+  ],
+  "lastNames": [
+    "Poudel", "Adhikari", "Shrestha", "Nepali", "Kafle",
+    "Rana", "Thapa", "Gurung", "Magar", "Tamang",
+    "Acharya", "Bhattarai", "Dahal", "Giri", "Karki",
+    "Lama", "Pandey", "Regmi", "Sharma", "Yadav"
+  ]
+}
